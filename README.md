@@ -4,7 +4,7 @@
 ESP32 Amazing Cyber Program
 
 ## Purpose
-Create an ESP32 project using the ESP32CAM.
+How to install WAZUH on Digital Ocean server 
 
 # Files
 
