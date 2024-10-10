@@ -22,7 +22,7 @@
 
 ##### Youtube Video 1: [5 Minute Guide](https://www.youtube.com/watch?v=pCKApbHhQiY)
 
-##### Youtube Video 2: Off VM Linux server [Challenging](https://www.youtube.com/watch?v=3CfjoCQmpo8)
+##### Youtube Video 2: Off VM Ubuntu desktop [Challenging](https://www.youtube.com/watch?v=3CfjoCQmpo8)
 
 ##### Other Links: 
 
