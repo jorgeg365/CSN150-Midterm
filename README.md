@@ -20,9 +20,9 @@
 ## Link to Documentation Followed
 - [GitHub - martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router)
 
-##### Youtube Video 1: [5 Minute Guide](https://www.google.com/search?q=How+to+Install+wazuh+on+digital+ocean+server&rlz=1C1ONGR_enUS1123US1123&oq=how+to+install+&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg7MgYIAhBFGEAyBggDEEUYOTIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEINDM5OWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:1e62d868,vid:pCKApbHhQiY,st:0)
+##### Youtube Video 1: [5 Minute Guide](https://www.youtube.com/watch?v=pCKApbHhQiY)
 
-##### Youtube Video 2: Off VM Linux server [Challenging](https://www.google.com/search?q=How+to+Install+wazuh+on+digital+ocean+server&rlz=1C1ONGR_enUS1123US1123&oq=how+to+install+&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg7MgYIAhBFGEAyBggDEEUYOTIGCAQQRRg8MgYIBRBFGDwyBggGEEUYPDIGCAcQRRhB0gEINDM5OWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:cc29c75a,vid:3CfjoCQmpo8,st:0)
+##### Youtube Video 2: Off VM Linux server [Challenging](https://www.youtube.com/watch?v=3CfjoCQmpo8)
 
 ##### Other Links: 
 
