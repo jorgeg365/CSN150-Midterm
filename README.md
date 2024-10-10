@@ -1,7 +1,7 @@
 # Cybersecurity 150 Mid-Term
 
 ## Name of Project
-ESP32 Amazing Cyber Program
+How to install Wazuh on Ubuntu 24.06
 
 ## Purpose
 WAZUH on DigitalOcean: A Step-by-Step Guide 
