@@ -36,7 +36,7 @@ Write the steps you followed here.  This way you can keep track of where you mig
 
 
 ## Problems
-Note your problems or errors here.  Google any error you may come across, and not what you tried (even if it does not work), and what was the final answer.
+Note your problems or errors here.  Google any error you may come across, and what you tried (even if it does not work), and what was the final answer.
 1. Problem 1
 2. Problem 2
 3. Problem 3
