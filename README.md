@@ -13,7 +13,7 @@
 
 
 # Equipment* 
-* Digital Ocean server subscription [Dgital Ocean](https://www.digitalocean.com/)
+* Digital Ocean server subscription [Digital Ocean](https://www.digitalocean.com/)
 
 * Ubuntu 24.06 installation on server
 
