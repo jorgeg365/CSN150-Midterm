@@ -1,4 +1,4 @@
-# Cybersecurity 150 Lab
+# Cybersecurity 150 Mid-Term
 
 ## Name of Project
 ESP32 Amazing Cyber Program
