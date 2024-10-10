@@ -4,7 +4,7 @@
 ESP32 Amazing Cyber Program
 
 ## Purpose
-How to install WAZUH on Digital Ocean server 
+WAZUH on DigitalOcean: A Step-by-Step Guide 
 
 # Files
 
