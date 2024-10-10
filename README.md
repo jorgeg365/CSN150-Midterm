@@ -7,7 +7,7 @@ ESP32 Amazing Cyber Program
 Create an ESP32 project using the ESP32CAM.
 
 # Files
-**Jorge**
+
 
 
 # Equipment
