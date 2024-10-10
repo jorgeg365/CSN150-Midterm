@@ -18,7 +18,7 @@
 * Ubuntu 24.06 installation on server
 
 ## Link to Documentation Followed
-- [GitHub - martin-ger/esp32_nat_router](https://github.com/martin-ger/esp32_nat_router)
+- [GitHub - martin-ger/esp32_nat_router](https://github.com/fayasmh07/Wazuh-Server)
 
 ##### Youtube Video 1: [5 Minute Guide](https://www.youtube.com/watch?v=pCKApbHhQiY)
 
