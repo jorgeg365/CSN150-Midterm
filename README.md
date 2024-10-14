@@ -29,7 +29,7 @@
 
 ## Steps I followed
 Write the steps you followed here.  This way you can keep track of where you might have messed up if the project does not work.
-1. Following the wazuh websites [installation](https://documentation.wazuh.com/current/installation-guide/wazuh-server/installation-assistant.html) ![replace](github1.png)
+1. Following the wazuh websites [installation](https://documentation.wazuh.com/current/installation-guide/wazuh-server/installation-assistant.html) ![replace](github1.png) replace --wazuh-server wazuh-1 with -a
 2. Problem 2
 3. Problem 3
 4. Problem 4 ... ETC
