@@ -15,7 +15,7 @@
 # Tools 
 * Digital Ocean server subscription [Digital Ocean](https://www.digitalocean.com/)
 
-* Ubuntu 24.06 installation on server
+* Ubuntu 24.04 installation on server
 
 ## Link to Documentation Followed
 - [GitHub - fayasmh07/ Wazuh-Server](https://github.com/fayasmh07/Wazuh-Server)
