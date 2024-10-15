@@ -42,7 +42,7 @@ Note your problems or errors here.  Google any error you may come across, and wh
 1. To install wazuh on digital ocean was best to use the console terminal on the website page instead of personal cpu. Kept running into errors
 2. This command bash wazuh-install.sh --wazuh-server wazuh-1 is the default way to install wazuh but I kept running into errors through the youtube [video](https://www.youtube.com/watch?v=JTGMWH2w2p4) (begin 2:53-3:22) I learned that bash wazuh-install.sh -a will work and it did with no issues.
 3. Installing the agent using the wazuh installation guide you have to make sure to fill in the WAZUH_MANAGER ip address with your server address from Digital Ocean and the last command was not working for me. ![agentnetstart](wazuhagentIP.png)
-4. Method that worked was in taskbar search bar type services open look for wazuh then right click, click properties and click start then refresh your wazuh dashboard page. ![wazuhstart](wazuhstart.png)
+4. Method that worked was in taskbar search bar type services then click open look for wazuh then right click, click properties and click start then refresh your wazuh dashboard page. ![wazuhstart](wazuhstart.png)
 
 
 <!--  
