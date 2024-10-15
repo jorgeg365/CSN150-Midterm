@@ -5,7 +5,8 @@
 
 ## Purpose
 **WAZUH on DigitalOcean: A Step-by-Step Guide** 
-* The project is to install a open source Security Information and Event Management tool (SIEM) using a cloud server. Then through the SIEM we will deploy an OS where we can view all the security information off of the SIEM's dashboard.
+* Description of the project
+  * The project is to install a open source Security Information and Event Management tool (SIEM) using a cloud server. Then through the SIEM we will deploy an OS where we can view all the security information off of the SIEM's dashboard.
 * What does the project do?
    * Enhanced Threat Detection: SIEM can spot potential security problems by looking at information from different places.
    * Incident Response: SIEM can help companies deal with security problems more quickly by showing them what's happening.
