@@ -40,7 +40,7 @@ Write the steps you followed here.  This way you can keep track of where you mig
 ## Problems
 Note your problems or errors here.  Google any error you may come across, and what you tried (even if it does not work), and what was the final answer.
 1. To install wazuh on digital ocean was best to use the console terminal on the website page instead of personal cpu. Kept running into errors
-2. This command bash wazuh-install.sh --wazuh-server wazuh-1 is the default way to install wazuh but I kept running into errors through the youtube ![video](https://www.youtube.com/watch?v=JTGMWH2w2p4) (begin 2:53-3:22) I learned that bash wazuh-install.sh -a will work and it did with no issues.
+2. This command bash wazuh-install.sh --wazuh-server wazuh-1 is the default way to install wazuh but I kept running into errors through the youtube [video](https://www.youtube.com/watch?v=JTGMWH2w2p4) (begin 2:53-3:22) I learned that bash wazuh-install.sh -a will work and it did with no issues.
 3. Problem 3
 4. Problem 4 ... ETC
 
