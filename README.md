@@ -12,6 +12,8 @@
    * Compliance Adherence: SIEM can help companies follow rules and regulations by keeping records of security activities.
    * Cost-Effectiveness: Open-source SIEM tools are cheaper than paid ones.
    * Scalability: SIEM on the cloud can grow as a company's needs change.
+* Why do you find it interesting?
+    * I find this project interesting primarily because I've never worked with a SIEM tool or a cloud server before. Installing a SIEM on a Linux OS and exploring its capabilities will be a valuable learning experience, especially as I'm majoring in cybersecurity. This hands-on practice will help me develop practical skills and gain a deeper understanding of SIEM technology
 
 # Files
 1. Simple step by step [Guide](https://medium.com/@akobeajiboluemmanuel/step-by-step-setup-of-wazuh-siem-on-ubuntu-22-04-3-lts-4663104fe69b)
