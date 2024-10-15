@@ -34,6 +34,7 @@ Write the steps you followed here.  This way you can keep track of where you mig
 3. On your browser in the URL test box you will fill in https://server-Ip-address:443 onces wazuh loads you will fill in credentials with user and password information you were given on the console. ![wazuhlogin](wazuhlogin.png)
 4. You have successfully installed wazuh on  your server ![wazuhscreeen](wazuhscreen.png) 
 5. To install a windows agent is a few steps first click on the top left 3 horizontal line menu icon then click server management then endpoint summary. Click deploy agent then just follow the video (begin 8:21- 11:05) [wazuhwindowsagent](https://www.youtube.com/watch?v=JTGMWH2w2p4)
+6. You have successfully installed a Windows agent on your Wazuh dashboard
 
 
 ## Problems
