@@ -32,7 +32,7 @@ Write the steps you followed here.  This way you can keep track of where you mig
 1. Following the wazuh websites [installation](https://documentation.wazuh.com/current/installation-guide/wazuh-server/installation-assistant.html) ![replace](github1.png) replace --wazuh-server wazuh-1 with -a because I kept getting this outcome ![wrong](2.png) -a is a standard command line option which means, show all information or operate on all arguments
 2. Wait for the processing to finish and then you will get a user and a password credentials ![credentials](credentials1.jpg)
 3. On your browser in the URL test box you will fill in https://server-Ip-address:443 onces wazuh loads you will fill in credentials with user and password information you were given on the console. ![wazuhlogin](wazuhlogin.png)
-4. Problem 4 ... ETC
+4. You have successfully installed wazuh on  youyr server ![wazuhscreeen]()
 
 
 ## Problems
