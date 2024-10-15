@@ -5,6 +5,7 @@
 
 ## Purpose
 **WAZUH on DigitalOcean: A Step-by-Step Guide** 
+* The project is to install a open source Security Information and Event Management tool (SIEM) using a cloud server. Then through the SIEM we will deploy an OS where we can view all the security information off of the SIEM's dashboard. 
 
 # Files
 1. Simple step by step [Guide](https://medium.com/@akobeajiboluemmanuel/step-by-step-setup-of-wazuh-siem-on-ubuntu-22-04-3-lts-4663104fe69b)
