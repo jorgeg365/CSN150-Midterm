@@ -30,7 +30,7 @@
 ## Steps I followed
 Write the steps you followed here.  This way you can keep track of where you might have messed up if the project does not work.
 1. Following the wazuh websites [installation](https://documentation.wazuh.com/current/installation-guide/wazuh-server/installation-assistant.html) ![replace](github1.png) replace --wazuh-server wazuh-1 with -a because I kept getting this outcome ![wrong](2.png) -a is a standard command line option which means, show all information or operate on all arguments
-2. Wair for the proessing and then you will get an user and a pass word ![credentials]()
+2. Wair for the proessing and then you will get an user and a pass word ![credentials](credentials.jpg)
 3. Problem 3
 4. Problem 4 ... ETC
 
