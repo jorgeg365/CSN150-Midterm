@@ -37,7 +37,7 @@
 ##### Other Links: 
 
 
-## Steps to followed
+## Steps to follow
 Write the steps you followed here.  This way you can keep track of where you might have messed up if the project does not work.
 1. Following the wazuh websites [installation](https://documentation.wazuh.com/current/installation-guide/wazuh-server/installation-assistant.html) ![replace](Images/github1.png) replace --wazuh-server wazuh-1 with -a because I kept getting this outcome ![wrong](Images/2.png) -a is a standard command line option which means, show all information or operate on all arguments
 2. Wait for the processing to finish and then you will get a user and a password credentials ![credentials](Images/password_Update.png)
