@@ -19,7 +19,7 @@
 # Files
 1. Simple step by step [Guide](https://medium.com/@akobeajiboluemmanuel/step-by-step-setup-of-wazuh-siem-on-ubuntu-22-04-3-lts-4663104fe69b)
 2. Optional guide manuals steps (not recommended for ordinary users) [Challenging](https://computingforgeeks.com/how-to-install-wazuh-server-on-ubuntu/)
-3. Full video of walthrough on releases section
+3. Full video walthrough on releases section
 
 
 
