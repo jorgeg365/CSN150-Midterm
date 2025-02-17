@@ -1,4 +1,4 @@
-# Cybersecurity 150 Mid-Term
+# How to install Wazuh on Ubuntu 24.04 and a Windows Wazuh agent
 
 ## Name of Project
 **How to install Wazuh on Ubuntu 24.04 and a Windows Wazuh agent**
